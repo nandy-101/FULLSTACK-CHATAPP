@@ -11,7 +11,7 @@ A real-time chat application built with the **MERN** stack, enhanced with **Tail
 - **Database**: MongoDB (Mongoose ODM)  
 - **Real-time Communication**: Socket.IO  
 - **Image Uploading**: Cloudinary  
-- **Authentication**: JWT (or your chosen method)  
+- **Authentication**: JWT  
 - **Styling Tools**: TailwindCSS + DaisyUI  
 
 ---
