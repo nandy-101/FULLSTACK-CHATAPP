@@ -24,3 +24,7 @@ A real-time chat application built with the **MERN** stack, enhanced with **Tail
 - 🟢 Online/offline user status
 - 📄 Chat history (persistent via MongoDB)
 - 🎨 Responsive and clean UI with TailwindCSS & DaisyUI
+
+  ## Deployed in Render.
+
+  Deployment link: https://fullstack-chatapp-3rrv.onrender.com
